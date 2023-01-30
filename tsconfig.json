@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "ESNext",
+    "moduleResolution": "NodeNext",
+    "types": [
+      "auto-imports",
+      "components",
+      "element-plus/global"
+    ]
+  },
+  "exclude": [
+    "auto-imports.d.ts",
+    "components.d.ts"
+  ]
+}

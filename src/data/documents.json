@@ -1,0 +1,54 @@
+[
+  {
+    "label": "Обязательные для всех",
+    "text": "Документы, обязательные для всех сотрудников без исключения",
+    "required": false,
+    "tags": [
+      "purple",
+      "yellow",
+      "orange"
+    ],
+    "children": [
+      {
+        "label": "Паспорт",
+        "text": "Для всех",
+        "required": true,
+        "tags": [
+          "blue"
+        ],
+        "children": []
+      },
+      {
+        "label": "ИНН",
+        "text": "Для всех",
+        "required": true,
+        "tags": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "label": "Тестовое задание кандидата",
+    "text": "Россия, Белоруссия, Украина, администратор филиала, повар-сушист, повар-пиццмейкер, повар горячего цеха",
+    "required": false,
+    "tags": [],
+    "children": []
+  },
+  {
+    "label": "Трудовой договор",
+    "text": "",
+    "required": false,
+    "tags": [
+      "blue",
+      "gray"
+    ],
+    "children": []
+  },
+  {
+    "label": "Мед. книжка",
+    "text": "",
+    "required": false,
+    "tags": [],
+    "children": []
+  }
+]
